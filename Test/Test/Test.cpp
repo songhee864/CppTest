@@ -1,22 +1,22 @@
 ﻿#include <iostream>
 using namespace std;
 
-int sum(int a, int b)
+int sum(int a, int b) //덧셈
 {
     return (a + b);
 }
 
-int sub(int a, int b)
+int sub(int a, int b) //뺄셈
 {
     return (a - b);
 }
 
-int multi(int a, int b)
+int multi(int a, int b) //곱셈
 {
     return (a * b);
 }
 
-int divi(int a, int b)
+int divi(int a, int b) //나눗셈
 {
     return (a / b);
 }
